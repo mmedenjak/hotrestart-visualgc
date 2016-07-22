@@ -23,7 +23,6 @@ public class VisualGC {
     private static final int WINDOW_Y = 200;
     private static final int WINDOW_WIDTH = 1000;
     private static final int WINDOW_HEIGHT = 280;
-    private static final float TOMBSTONE_BLEACH_FACTOR = 0.6f;
     private static final int REFRESH_SNAPSHOT_INTERVAL_MILLIS = 10;
     private static final int WAIT_FOR_SNAPSHOT_INTERVAL_MILLIS = 200;
 
